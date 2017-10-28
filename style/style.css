@@ -1,0 +1,16 @@
+.welcome-text {
+  text-align: center!important;
+  font-size: 32pt;
+}
+
+.app-body {
+  margin-top: 40px;
+}
+
+.text-area {
+  width: 90%;
+}
+
+.markdown-preview {
+  /*width: 50%;*/
+}
